@@ -1,4 +1,4 @@
-Web blog
+Python blog
 ========
 
 This is a simple Python web-based blog that doesn't do much but introduces Flask, HTML, CSS, Bootstrap, Jinja2, and other concepts such as endpoints and APIs.
